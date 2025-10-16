@@ -1,6 +1,6 @@
 # 🔬 Grain Size Analyzer
 
-**Created by Avaneesh Inamdar © 2024**
+**Created by Avaneesh Inamdar © 2025**
 
 A comprehensive Python-based offline tool for automatic measurement of metal grain size from metallurgical microstructure images using computer vision techniques following ASTM E112 standard.
 
