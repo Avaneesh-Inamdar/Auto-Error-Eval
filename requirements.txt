@@ -1,0 +1,9 @@
+# Grain Size Analyzer Requirements
+# Created by Avaneesh Inamdar © 2024
+
+opencv-python>=4.5.0
+numpy>=1.20.0
+matplotlib>=3.3.0
+
+# This software was created by Avaneesh Inamdar
+# All rights reserved © 2024
