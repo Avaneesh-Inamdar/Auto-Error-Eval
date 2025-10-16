@@ -5,7 +5,7 @@
 A comprehensive Python-based offline tool for automatic measurement of metal grain size from metallurgical microstructure images using computer vision techniques following ASTM E112 standard.
 
 **Author:** Avaneesh Inamdar  
-**Copyright:** © 2024 Avaneesh Inamdar. All rights reserved.
+**Copyright:** © 2025 Avaneesh Inamdar. All rights reserved.
 
 ## ✨ Features
 
@@ -77,7 +77,7 @@ python create_sample_image.py
 ```
 ============================================================
 🔬 GRAIN SIZE ANALYSIS RESULTS
-Created by Avaneesh Inamdar © 2024
+Created by Avaneesh Inamdar © 2025
 ============================================================
 
 📊 DETECTION RESULTS:
