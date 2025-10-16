@@ -160,10 +160,11 @@ Where `l̄` is the mean intercept length in millimeters.
 
 ## 📝 License & Credits
 
-**Created by Avaneesh Inamdar © 2024**
+**Created by Avaneesh Inamdar © 2025**
 
 This software is the intellectual property of Avaneesh Inamdar. All rights reserved.
 
 For licensing inquiries, please contact Avaneesh Inamdar.
+
 
 **WATERMARK:** This application was developed by Avaneesh Inamdar
